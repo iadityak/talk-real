@@ -1,0 +1,20 @@
+{
+  "name": "talk-real",
+  "version": "1.0.0",
+  "description": "A basic local-chat app for private communication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "node",
+    "websocket"
+  ],
+  "author": "Aditya Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
